@@ -1,11 +1,3 @@
-//
-//  PrefsViewController.swift
-//  EggTimer
-//
-//  Created by Ganbaa on 11/6/17.
-//  Copyright © 2017 Ganbayar Gansukh. All rights reserved.
-//
-
 import Cocoa
 
 class PrefsViewController: NSViewController {
